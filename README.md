@@ -21,4 +21,4 @@ pré-processamento e treinar diferentes modelos utlizando diferentes algoritmos 
 Python com auxílio de módulos de Data Science/Machine Learning.</li>
 </p>
 
-<p>Neste repositório encontram-se o script do Matlab e código Python, que contém os resultados e considerações. O cógido utilizado no Arduino pertence a uma biblioteca criada por <a href="https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050">Jeff Rowberg</a>.</p>
+<p>Neste repositório encontram-se o script do Matlab e o código Python, que contém os resultados e considerações. O cógido utilizado no Arduino pertence a uma biblioteca criada por <a href="https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050">Jeff Rowberg</a>.</p>
