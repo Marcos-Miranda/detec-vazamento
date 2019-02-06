@@ -2,7 +2,7 @@
 
 <p>Este projeto teve como inspiração outros existentes na área de detecção  de falhas em máquinas elétricas através 
 de reconhecimento de padrões de vibração. O objetivo era descobrir se o mesmo princípio poderia ser utilizado com encanamentos, 
-considerando que neste caso a diferença entre os padrões de vibração tenderiam a ser mais sútis do que no de máquinas, e então 
+considerando que neste caso a diferença entre os padrões de vibração tenderiam a ser mais sútil do que no de máquinas, e então 
 possibilitar a criação de um sistema de detecção de vazamento em tempo real.</p>
 
 <p>Ele consiste de 3 áreas:</p>
